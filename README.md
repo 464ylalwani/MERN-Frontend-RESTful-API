@@ -1,8 +1,19 @@
-# React + Vite
+# MERN User App (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React app fetches user data from a MongoDB backend using Axios.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Axios + useEffect + useState
+- API call to backend
+- Clean UI with CSS styling
+
+## Folder Structure
+
+- `App.jsx` – Main component
+- `style.css` – Basic UI polish
+
+## Backend API
+
+Backend is built in Node.js + Express + MongoDB  
+GitHub link for backend: https://github.com/464ylalwani/mern-backend-RESTful-api
