@@ -16,4 +16,4 @@ This React app fetches user data from a MongoDB backend using Axios.
 ## Backend API
 
 Backend is built in Node.js + Express + MongoDB  
-GitHub link for backend: https://github.com/464ylalwani/mern-backend-RESTful-api
+GitHub link for backend: https://github.com/464ylalwani/MERN-Backend-RESTful-API
